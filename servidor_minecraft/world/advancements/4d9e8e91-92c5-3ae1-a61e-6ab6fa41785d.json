@@ -8,6 +8,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2024-12-30 04:12:14 +0000",
+      "minecraft:cherry_grove": "2024-12-30 04:17:24 +0000",
+      "minecraft:sunflower_plains": "2024-12-30 04:17:06 +0000",
+      "minecraft:river": "2024-12-30 04:23:28 +0000",
       "minecraft:plains": "2024-12-30 03:46:41 +0000"
     },
     "done": false
@@ -51,6 +54,12 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-30 04:00:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-30 04:22:42 +0000"
     },
     "done": true
   },
@@ -516,6 +525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-30 04:17:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2024-12-30 04:00:19 +0000"
@@ -723,6 +738,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-30 03:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-30 04:17:38 +0000"
     },
     "done": true
   },
